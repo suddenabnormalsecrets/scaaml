@@ -11,6 +11,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+#[default]
+#aws_access_key_id = AKIAUM4G6O6NDRJ3GF5K
+#aws_secret_access_key = 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
+#output = json
+#region = us-east-2
 """Generates the DEPENDENCY_LICENSES file, by extracting and classifying
 dependencies."""
 import setuptools
